@@ -16,12 +16,6 @@ O CloudBoost é uma plataforma desenvolvida para ajudar empresas a potencializar
 - **Autonomia e Resultados**: Crie listas, campanhas, e analise a performance em tempo real.
 - **Templates Boost**: Use modelos prontos para newsletters, lançamentos e campanhas de vendas.
 
-## 🚀 Teste Grátis
-
-Experimente o **CloudBoost** gratuitamente e veja como sua empresa pode crescer com e-mail marketing! Basta acessar nosso site e começar sua jornada para mais conversões.
-
-[**Testar grátis**](https://cloudboost.fun)
-
 ## 🛠 Tecnologias Utilizadas
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
